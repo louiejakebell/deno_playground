@@ -6,7 +6,7 @@ interface Cat {
 let cats: Array<Cat> = [
   {
     name: "simba",
-    age: 2
+    age: 2,
   },
   {
     name: "jimmy",
